@@ -1,0 +1,698 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M           (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.185 seconds
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_NetworkManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.853597 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e20 -> priority: 1 
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1.1, 300.0, -0.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-2.0, 300.0, -0.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1.3, 300.0, -4.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-3.8, 300.0, 2.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-6.8, 300.0, 5.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2000.0, 400.0, -2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.1, 300.0, -0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(6.6, 300.0, -3.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.8, 300.0, -0.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(6.3, 300.0, -3.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(4.0, 300.0, -0.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.6, 300.0, -4.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.6, 300.0, -4.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.1, 300.0, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.4, 300.0, 0.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1.1, 300.0, -0.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-5.7, 300.0, -3.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.2, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-6.9, 300.0, 1.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.7, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.7, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.1, 300.0, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(3.7, 300.0, -0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.8, 300.0, -0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M           (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_NetworkManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.664574 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c20 -> priority: 1 
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(7.0, 300.0, -0.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-568.9, 300.0, -1070.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2000.0, 400.0, 2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2000.0, 400.0, 2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-889.2, 300.0, 25.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-889.2, 300.0, 25.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-2000.0, 300.0, -2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, -143.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-72.8, 300.0, 10.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-20.1, 300.0, 1.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(42.6, 300.0, -5.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(42.6, 300.0, -5.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.7, 300.0, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2000.0, 400.0, 60.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-33.2, 300.0, 10.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-179.3, 400.0, 234.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M           (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\RocketFootball\RocketFootbalWindows_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_NetworkManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 1.022948 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 149c -> priority: 1 
+(0.4, 300.0, -0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2.1, 300.0, -1.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-194.9, 300.0, 114.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-194.9, 300.0, 114.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-194.8, 300.0, 114.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-194.8, 300.0, 114.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-3.5, 300.0, -1.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-8.3, 300.0, -2.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(604.4, 300.0, 213.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(566.3, 300.0, 200.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(1138.8, 300.0, 394.0)
+ 
+(Filename: C:223.4, 300.0, dslave/un
+it
+y/bluild/artifacts/genverunity/bteuicommort/runtime/Unirated/common/ruttimEn/gineDebuigBDindingnds.gen.cp.cp L Linn: 37)
+
+e: 37)
+
+(1200.1, 300.0, 375.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/gene(1194.7, 300.0,nt me/Unit
+yE
+nFilename: C:ndings.gen.cpp Line: 37)d/
+a
+rtifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(1196.4, 300.0, 367.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(1587.3, 300.0, 486.5)
+ 
+(Filename: C:/buildslave/unity/bui(d/587.2, 300.0, 486.5)
+ 
+(Filename: C:/buildslave/unity/buiad/artifasts/generageted/common/run/runtimme/UnityEngineDebugBindings.gen.cpp Line: 37)
+e
+/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(1211215.2, 300.0, 372.1)
+ 
+(Filename: C:/buil5s.1ve/unity/build/a
+r
+(Ffaletsa/eg Cne/ruildeda/ecunmmton//uiluntime/Unitt/gEnginatDebugBindings.gen.cpnityEngine7D
+e
+bugBindings.gen.cpp Line: 37)
+
+(22.5, 300.0, 8.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(363.0, 300.0, 85.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(6.7, 300.0, 2.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(1478.7, 300.0, 480.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(192.9, 300.0, 72.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(670.7., ,0 .3, 0.0.0)
+  4
+(Fi)
+ n
+m(:FCi/luinadmleve/u: C:/buildslave/unity/builad/artifaocts/generaUnityEonmgineDetbugBinitynndiieDebugBindings.ge:n.cpp
+ 
+Line: 37)
+
+(137.8, 300.0, 48.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(67.7, 300.0, 23.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(169.4, 300.0, 43.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-22.8, 300.0, -9.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(540.2, 300.0, 93.0)
+ 
+(Filename: C:/build(la40e.1, 300.0,l /a3.t1)
+ 
+(Filename: /common/runtime/Unitybuingd/naDetifgBindingnesatgen/.cpp Line: 37)
+
+nityEngi(540.2, 300.0, 9g3.0)
+ 
+(iileenam7)
+
+C:/bu5ildslave/unity3/bui
+ld
+/Falename: C:/buildslavco/umoity/ubuild/artifacts/generated/commone/runtime/Unit7yE
+n
+gineDebugBindings.gen.cpp Line: 37)
+
+(681.0, 300.0, 138.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(681.0, 300.0, 138.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(705.7, 300.0, 144.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(705.7, 300.0, 144.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(540.7, 300.0, 116.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(546.6, 300.0, 117.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(523.8, 300.0, 115.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(524.4, 300.0, 115.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(701.5, 300.0, 156.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/7gene, ated/common/ru)
+ 
+(Filenatim C:UbuilyEngine/unity/iuidingsrtin.cpt Line: 37)
+
+/common/runtime/UnityEngineDebugBi
+nd
+ingsename: Cp Line: 37)
+
+/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(32.5, 300.0, 7.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(523.8, 300.0, 117.2)
+ 
+(Filename: C:/buildslave/unity/build(51/artifac.s/0enerated/c
+ o
+(Fioenamen:imCe/UnuilysEave/unity/buindings.gen.cpp Line: 37)
+
+mmon/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(523.5, 300.0, 116.8)
+ 
+(Filename: C:/buildslave/unity/build/art(fact.8, 300s0,g ne17.0)
+ 
+(Fileoa/re:untCme//buildslavneDeuniugBibuilng/artifacss/genneratedn/com7mo
+n
+/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(727.4, 300.0, 184.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(702.1, 300.0, 178.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(517.6, 300.0, 175.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(524.7, 300.0, 177.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(511.9, 300.0, 177.1)
+ 
+(Fil4na4.0e:  C:/bui, 16ds.4)
+ /u
+nity/name: C:/buildslave/unity/bcommon/runtimes/Unitryted/commgon/rebugBiudinimes/Unn.ctyEngipeD Lebu:gB7)
+
+indings.gen.cpp Line: 37)
+
+(684.(, 6092.0,0, 300.10)
+231
+.7)
+ 
+(mei: C:/bu i:/bldldsslave/nutyity/lbu/artifictd/as/genets/gted/comteon/duncommontrimeime/UninityEyEngineineuDBindinge.gugBn.ndipp Linn: s.gen3cp)
+
+ Line: 37)
+
+((700.50 3.0,03000.0, 234.4
+ )
+
+ 
+(FilenamC:/buC:ld/lavb/uuity/build/artifty/build/artiaccts//geeerrated/common/runtione/U/rtyEngineDentigBindnityEigngeD.een.cugBindpngs.gneen.cpp
+ 
+Line: 37)
+
+(634.1, 300.0, 171.1)
+ 
+(F(551.3e: C:/.0,b148uild
+sl
+avi/lenay/buildmartiCf/buildsaats/e/uniraty/bedldcoartifactm/generuatedime/moU/runtime/UnntiEnEgiineneDegBibdungsgBenndings.gen.cpp Line7)
+:
+ 37)
+
+(634.1( 300.0,551.3, 3
+0
+0.ilenam0:  148:.9)i
+ slave/u
+(Fnitname: i:/buildslfacts/aeneeuniratbed/c/ammrn/tuntfacim/gene/ated/cUmnityEngiimeneDebuEnginegebindgiindgs.genicnpgL.genne: 3.)
+
+p Line: 37)
+
+(42.9, 300.0, -2.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-0.1, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(4779.9, 3.0.0, 163.65
+ ,
+ File0na0e:.C:/0uil,s ave162.8)
+ ui
+ld/artimacts/generated/commonuruntime/Unityslave/uEitgineDebugBindiy/b.uien.carp Lfne: 37)
+
+acts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(133.7, 300.0, 51.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(133.6, 300.0, 51.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(140.2, 300.0, 128.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(139.2, 300.0, 129.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-2.7, 300.0, -0.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-2.5, 300.0, -0.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-7.3, 300.0, -7.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-7.3, 300.0, -7.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-6.1, 300.0, -5.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-6.1, 300.0, -5.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(7.8, 300.0, 7.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2.2, 300.0, 3.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(2.2, 300.0, 3.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(6.7, 300.0, -0.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, 300.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(878.7, 300.0, -1325.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(878.7, 300.0, -1325.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(859.3, 300.0, -1296.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(859.3, 300.0, -1296.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1599.7, 400.0, -2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1599.7, 400.0, -2000.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(93.4, 300.0, -69.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(93.4, 300.0, -69.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1590.7, 400.0, -1156.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1590.7, 400.0, -1156.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
